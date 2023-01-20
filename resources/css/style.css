@@ -15,3 +15,16 @@ body{
     font-size: 16px;
     color: aquamarine;
 }
+.header-second {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+.header-third {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: ;
+    font-size: 21px;
+    color: gray;
+}
